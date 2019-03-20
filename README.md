@@ -1,2 +1,3 @@
 # my awesome portfolio
-first project about bearded dragons
+first project!!
+it's about bearded dragons
